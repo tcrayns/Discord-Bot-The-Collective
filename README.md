@@ -2,4 +2,4 @@
 
 Description
 
-This bot manages this discord server end enforces the rules.
+This bot manages this discord server and enforces the rules.
