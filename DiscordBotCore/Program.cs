@@ -4,8 +4,9 @@ namespace DiscordBotCore
 {
     internal class Program
     {
-        private static void Main(string[] args)
+        private static void Main()
         {
+            Unity.RegisterTypes(); 
             Console.WriteLine("Hello, Discord!");
         }
     }
